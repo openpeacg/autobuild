@@ -12,8 +12,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/wireless-road/openwrt.git
-  REPO_BRANCH: imx6ull-2021-cand
+  REPO_URL: https://github.com/kerenskiy/openpeacg.git
+  REPO_BRANCH: openwrt-21.02
 
 on:
   workflow_dispatch:
